@@ -1,0 +1,26 @@
+<geoPlugin>
+<geoplugin_request>158.181.28.192</geoplugin_request>
+<geoplugin_status>206</geoplugin_status>
+<geoplugin_delay>1ms</geoplugin_delay>
+<geoplugin_credit>Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.</geoplugin_credit>
+<geoplugin_city/>
+<geoplugin_region/>
+<geoplugin_regionCode/>
+<geoplugin_regionName/>
+<geoplugin_areaCode/>
+<geoplugin_dmaCode/>
+<geoplugin_countryCode>KG</geoplugin_countryCode>
+<geoplugin_countryName>Kyrgyzstan</geoplugin_countryName>
+<geoplugin_inEU>0</geoplugin_inEU>
+<geoplugin_euVATrate/>
+<geoplugin_continentCode>AS</geoplugin_continentCode>
+<geoplugin_continentName>Asia</geoplugin_continentName>
+<geoplugin_latitude>41</geoplugin_latitude>
+<geoplugin_longitude>75</geoplugin_longitude>
+<geoplugin_locationAccuracyRadius>50</geoplugin_locationAccuracyRadius>
+<geoplugin_timezone>Asia/Bishkek</geoplugin_timezone>
+<geoplugin_currencyCode>KGS</geoplugin_currencyCode>
+<geoplugin_currencySymbol>&#1083;&#1074;</geoplugin_currencySymbol>
+<geoplugin_currencySymbol_UTF8>лв</geoplugin_currencySymbol_UTF8>
+<geoplugin_currencyConverter>84.7976</geoplugin_currencyConverter>
+</geoPlugin>
